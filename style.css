@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+}
+#calendar {
+  max-width: 600px;
+  margin-top: 20px;
+}
